@@ -1,5 +1,8 @@
 # CaliHousingML: Advanced Feature Analysis
 
+![Overview](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction/blob/main/banner1.png)
+
+
 ## Overview
 This project explores advanced feature selection and dimensionality reduction techniques on the California Housing Dataset, using a Linear Regression model. We aim to determine the impact of these techniques on the model's performance.
 
@@ -11,6 +14,9 @@ We applied various feature selection methods and PCA for dimensionality reductio
 2. SelectKBest with F-Regression
 3. SelectKBest with Mutual Information Regression
 4. Principal Component Analysis (PCA)
+
+![Implemented Techniques and Performance Metrics](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction/blob/main/banner2.png)
+
 
 ### Performance Metrics
 Below are the R2 and MSE values for the Linear Regression model with each technique:
@@ -27,6 +33,9 @@ Below are the R2 and MSE values for the Linear Regression model with each techni
 - **PCA**:
   - R2 Score: 0.4329
   - MSE: 0.7431
+
+![Installation](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction/blob/main/banner3.png)
+
 
 ## Installation
 To run this project, clone the repository and install the required dependencies.
