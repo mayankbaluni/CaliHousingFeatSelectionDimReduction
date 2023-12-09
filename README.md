@@ -31,6 +31,8 @@ Below are the R2 and MSE values for the Linear Regression model with each techni
 ## Installation
 To run this project, clone the repository and install the required dependencies.
 ```bash
+mkdir CaliHousingFeatSelectionDimReduction
 git clone https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction.git
 cd CaliHousingFeatSelectionDimReduction
+python CaliHousingFeatSelectionDimReduction.py
 
