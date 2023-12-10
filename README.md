@@ -34,8 +34,6 @@ Below are the R2 and MSE values for the Linear Regression model with each techni
   - R2 Score: 0.4329
   - MSE: 0.7431
 
-![Installation](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction/blob/main/banner3.png)
-
 
 ## Installation
 To run this project, clone the repository and install the required dependencies.
